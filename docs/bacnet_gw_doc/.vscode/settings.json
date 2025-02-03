@@ -1,0 +1,6 @@
+{
+  "markdown.marp.themes": [
+    "./marp_themes/A4-Manual.css",
+    "./marp_themes/layout.css"
+  ]
+}

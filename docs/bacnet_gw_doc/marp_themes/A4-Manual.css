@@ -1,0 +1,96 @@
+/* @theme A4-Manual */
+
+@import 'default';
+
+section
+{
+  width: 210mm;
+  height: 297mm;
+  justify-content: start;
+  padding: 50px;
+}
+
+div.top {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+}
+
+.size10 {
+  font-size: 10pt;
+}
+
+.size11 {
+  font-size: 11pt;
+}
+
+.size12 {
+  font-size: 12pt;
+}
+
+.size13 {
+  font-size: 13pt;
+}
+
+.size14 {
+  font-size: 14pt;
+}
+
+.size16 {
+  font-size: 16pt;
+}
+
+.size32 {
+  font-size: 32pt;
+}
+
+p.size10 {
+  font-size: 10pt;
+}
+
+p.size11 {
+  font-size: 11pt;
+}
+
+p.size12 {
+  font-size: 12pt;
+}
+
+p.size13 {
+  font-size: 13pt;
+}
+
+p.size14 {
+  font-size: 14pt;
+}
+
+p.size16 {
+  font-size: 16pt;
+}
+
+p.size32 {
+  font-size: 32pt;
+}
+.right {
+  text-align: right; 
+}
+
+.left {
+  text-align: left; 
+}
+
+.center {
+  text-align: center; 
+}
+
+p.right {
+  text-align: right; 
+}
+
+p.left {
+  text-align: left; 
+}
+
+p.center {
+  text-align: center; 
+}
